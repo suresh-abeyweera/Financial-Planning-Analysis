@@ -35,18 +35,18 @@ Below topics are covered in the Model.
 
 - Distributor Wise Sales
 - Revenue Planning
--3. Traingulation
--4. Production Planning
--5. Direct Costs
--6. Overhead Costs
--7. COGS Planning
--8. Payroll Expense
--9. SG & A 
--10.  Working Capital
--11. Fixed Assets
--12. Loan Repayment Schedule
--13. Income Statement
--14. Balance Sheet
+- Traingulation
+- Production Planning
+- Direct Costs
+- Overhead Costs
+- COGS Planning
+- Payroll Expense
+- SG & A 
+- Working Capital
+- Fixed Assets
+- Loan Repayment Schedule
+- Income Statement
+- Balance Sheet
 
 Some Snapshot from the Model.
 
