@@ -33,8 +33,8 @@ Import the provided .gz file to work on the front end.
 
 Below topics are covered in the Model.
 
--1.Distributor Wise Sales
--2. Revenue Planning
+- Distributor Wise Sales
+- Revenue Planning
 -3. Traingulation
 -4. Production Planning
 -5. Direct Costs
