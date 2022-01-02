@@ -33,20 +33,20 @@ Import the provided .gz file to work on the front end.
 
 Below topics are covered in the Model.
 
-1.Distributor Wise Sales
-2. Revenue Planning
-3. Traingulation
-4. Production Planning
-5. Direct Costs
-6. Overhead Costs
-7. COGS Planning
-8. Payroll Expense
-9. SG & A 
-10.  Working Capital
-11. Fixed Assets
-12. Loan Repayment Schedule
-13. Income Statement
-14. Balance Sheet
+-1.Distributor Wise Sales
+-2. Revenue Planning
+-3. Traingulation
+-4. Production Planning
+-5. Direct Costs
+-6. Overhead Costs
+-7. COGS Planning
+-8. Payroll Expense
+-9. SG & A 
+-10.  Working Capital
+-11. Fixed Assets
+-12. Loan Repayment Schedule
+-13. Income Statement
+-14. Balance Sheet
 
 Some Snapshot from the Model.
 
