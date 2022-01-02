@@ -54,7 +54,6 @@ Some Snapshot from the Model.
 
 ![image](https://user-images.githubusercontent.com/61721484/147868666-c092ae62-bdd8-463f-be8a-567745ff9636.png)
 
-![image](https://user-images.githubusercontent.com/61721484/147868673-14183e18-65e0-4342-a817-8d2bca60b017.png)
 
 Further improvements.
 
